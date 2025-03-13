@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... pyhton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... huerta.joel@gmail.com
-- ⚡ Fun fact: ... there's more sand than stars
+- ⚡ Fun fact: ... The continent of Australia is wider than the moon in diameter. 
 
 <!---
 joelhuerta3/joelhuerta3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
